@@ -1,11 +1,11 @@
 # Site settings
 author: Liza Kaley
-title: 
+title: Multicollinearity When Working with Multiple Regression
 header-img: img/home-bg.png
 email: lizakaley08@gmail.com
 copyright_name: Liza Kaley
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Variance Inflation Factor (VIF)
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lizakaley08
