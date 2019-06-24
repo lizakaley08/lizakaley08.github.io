@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Multicollinearity When Working with Multiple Regression"
-date:       2019-06-24 21:03:10 +0000
+date:       2019-06-24 17:03:11 -0400
 permalink:  multicollinearity_when_working_with_multiple_regression
 ---
 
