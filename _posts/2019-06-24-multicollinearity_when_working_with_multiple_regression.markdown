@@ -33,6 +33,7 @@ The next step chosen was to layer VIF into the end of King County Multiple Regre
 
 *Following is the code used in my model:*
 
+```
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 from statsmodels.tools.tools import add_constant
 
@@ -42,4 +43,5 @@ vif['VIF_Factor'] = [variance_inflation_factor(X.values, i) for i in range(X.sha
 vif['Features'] = X.columns
 
 vif.loc[(vif.VIF_Factor > 5)]
+```
 
